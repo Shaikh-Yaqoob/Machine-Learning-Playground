@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Drawing APP</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles_draw.css') }}">
+    <script type="text/javascript" src="{{ url_for('static', filename='draw.js') }}"></script>
+</head>
+
+<header>
+    Drawing App
+</header>
+
+<body>
+    <h1>Results</h1>
+    <div class="results">
+        {%if prediction%}
+        <h2 style="color:red;">Looks like a(n) {{ prediction }} ! </h2>
+        {%else%}
+         <h2 style="color:red;">Nothing to predict ! </h2>
+        {%endif%}
+    </div>
+</body>
+
+</html>
