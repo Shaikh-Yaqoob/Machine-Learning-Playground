@@ -1,0 +1,43 @@
+# TEMPLATE EMPTY HEADER
+%
+% Project: AUTOMATIC CLASSIFICATION OF ORANGES BY SIZE AND DEFECTS USING
+% COMPUTER VISION TECHNIQUES
+%
+% Author: Juan Carlos Miranda. https://github.com/juancarlosmiranda/
+% Date: 2018
+% Update:  December 2023
+%
+% Description:
+%
+%
+%
+% Use:
+
+
+
+# HEADER FOR BASH SCRIPTS
+#
+# Project: AUTOMATIC CLASSIFICATION OF ORANGES BY SIZE AND DEFECTS USING COMPUTER VISION TECHNIQUES
+#
+# Author: Juan Carlos Miranda https://github.com/juancarlosmiranda
+#
+# Date: 2018
+#
+# Description:
+#
+# Use:
+#
+
+
+# HEADER FOR BASH SCRIPTS
+REM
+REM Project: AUTOMATIC CLASSIFICATION OF ORANGES BY SIZE AND DEFECTS USING COMPUTER VISION TECHNIQUES
+REM
+REM Author: Juan Carlos Miranda https://github.com/juancarlosmiranda
+REM
+REM Date: 2018
+REM
+REM Description:
+REM
+REM Use:
+REM

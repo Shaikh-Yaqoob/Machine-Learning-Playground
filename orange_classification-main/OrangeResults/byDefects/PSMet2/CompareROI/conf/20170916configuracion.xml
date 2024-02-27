@@ -1,0 +1,113 @@
+<productinfo
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://www.mathworks.com/namespace/info/v1/info.xsd">
+
+<!--  -->
+
+<list>
+	<listitem>
+		<label>Fila1</label>
+		<value>50</value>
+	</listitem>
+
+	<listitem>
+		<label>FilaAbajo</label>
+		<value>300</value>
+	</listitem>
+
+	<listitem>
+		<label>offsetMedio</label>
+		<value>300</value>
+	</listitem>
+
+	<listitem>
+		<label>offsetAbajo</label>
+		<value>500</value>
+	</listitem>
+
+    <!-- Cuadro 1 Abajo -->
+	<listitem>
+		<label>Cuadro1_lineaGuiaInicialFila</label>
+		<value>200</value>
+	</listitem>
+
+	<listitem>
+		<label>Cuadro1_lineaGuiaInicialColumna</label>
+		<value>340</value>
+	</listitem>
+
+	<listitem>
+		<label>Cuadro1_espacioFila</label>
+		<value>300</value>
+	</listitem>
+
+	<listitem>
+		<label>Cuadro1_espacioColumna</label>
+		<value>300</value>
+	</listitem>
+
+    <!-- Cuadro 2 izquierda -->    
+	<listitem>
+		<label>Cuadro2_lineaGuiaInicialFila</label>
+		<value>0</value>
+	</listitem>    
+    
+	<listitem>
+		<label>Cuadro2_lineaGuiaInicialColumna</label>
+		<value>0</value>
+	</listitem>
+
+	<listitem>
+		<label>Cuadro2_espacioFila</label>
+		<value>300</value>
+	</listitem>
+    
+	<listitem>
+		<label>Cuadro2_espacioColumna</label>
+		<value>300</value>
+	</listitem>
+    
+	<!-- Cuadro 3 centro -->    
+	<listitem>
+		<label>Cuadro3_lineaGuiaInicialFila</label>
+		<value>1</value>
+	</listitem>
+    
+	<listitem>
+		<label>Cuadro3_lineaGuiaInicialColumna</label>
+		<value>350</value>
+	</listitem>
+
+	<listitem>
+		<label>Cuadro3_espacioFila</label>
+		<value>210</value>
+	</listitem>
+    
+	<listitem>
+		<label>Cuadro3_espacioColumna</label>
+		<value>300</value>
+	</listitem>
+
+    <!-- Cuadro 4 derecha -->
+	<listitem>
+		<label>Cuadro4_lineaGuiaInicialFila</label>
+		<value>1</value>
+	</listitem>
+    
+	<listitem>
+		<label>Cuadro4_lineaGuiaInicialColumna</label>
+		<value>830</value>
+	</listitem>
+
+	<listitem>
+		<label>Cuadro4_espacioFila</label>
+		<value>300</value>
+	</listitem>
+    
+	<listitem>
+		<label>Cuadro4_espacioColumna</label>
+		<value>300</value>
+	</listitem>
+
+</list>
+</productinfo>
