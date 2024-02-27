@@ -1,0 +1,591 @@
+-----------------------------------
+PRUEBA # 1 
+-----------------------------------
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('readtable', '/home/usuario/MATLAB/MATLAB_Production_Server/R2015a/toolbox/matlab/iofun/readtable.m', 129)" style="font-weight:bold">readtable</a> (<a href="matlab: opentoline('/home/usuario/MATLAB/MATLAB_Production_Server/R2015a/toolbox/matlab/iofun/readtable.m',129,0)">line 129</a>)
+Unable to open file '/home/usuario/OrangeResults/bySize/PSMet2/Classification/output/clasSizeUM/aTSCSize2UM.csv'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MainClasSizeEM', '/home/usuario/materialMaestria/2016trabajoTesisMaestria/sourceCode/bySize/PSMet2/clasSizeUM/MainClasSizeEM.m', 75)" style="font-weight:bold">MainClasSizeEM</a> (<a href="matlab: opentoline('/home/usuario/materialMaestria/2016trabajoTesisMaestria/sourceCode/bySize/PSMet2/clasSizeUM/MainClasSizeEM.m',75,0)">line 75</a>)
+tablaDSTest = readtable(fileHandlerTest,'Delimiter',',','Format',formatSpec);
+} 
+MainClasSizeEM
+-----------------------------------
+PRUEBA # 1 
+-----------------------------------
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('readtable', '/home/usuario/MATLAB/MATLAB_Production_Server/R2015a/toolbox/matlab/iofun/readtable.m', 129)" style="font-weight:bold">readtable</a> (<a href="matlab: opentoline('/home/usuario/MATLAB/MATLAB_Production_Server/R2015a/toolbox/matlab/iofun/readtable.m',129,0)">line 129</a>)
+Cannot interpret data in the file '/home/usuario/OrangeResults/bySize/PSMet2/Classification/output/clasSizeUM/aTSCSize2UM.csv'.  Found 34
+variable names but 36 data columns.  You may need to specify a different format string, delimiter, or number of header lines.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MainClasSizeEM', '/home/usuario/materialMaestria/2016trabajoTesisMaestria/sourceCode/bySize/PSMet2/clasSizeUM/MainClasSizeEM.m', 75)" style="font-weight:bold">MainClasSizeEM</a> (<a href="matlab: opentoline('/home/usuario/materialMaestria/2016trabajoTesisMaestria/sourceCode/bySize/PSMet2/clasSizeUM/MainClasSizeEM.m',75,0)">line 75</a>)
+tablaDSTest = readtable(fileHandlerTest,'Delimiter',',','Format',formatSpec);
+} 
+-----------------------------------
+PRUEBA # 1 
+-----------------------------------
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('readtable', '/home/usuario/MATLAB/MATLAB_Production_Server/R2015a/toolbox/matlab/iofun/readtable.m', 129)" style="font-weight:bold">readtable</a> (<a href="matlab: opentoline('/home/usuario/MATLAB/MATLAB_Production_Server/R2015a/toolbox/matlab/iofun/readtable.m',129,0)">line 129</a>)
+Cannot interpret data in the file '/home/usuario/OrangeResults/bySize/PSMet2/Classification/output/clasSizeUM/aTSCSize2UM.csv'.  Found 34
+variable names but 36 data columns.  You may need to specify a different format string, delimiter, or number of header lines.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('MainClasSizeEM', '/home/usuario/materialMaestria/2016trabajoTesisMaestria/sourceCode/bySize/PSMet2/clasSizeUM/MainClasSizeEM.m', 75)" style="font-weight:bold">MainClasSizeEM</a> (<a href="matlab: opentoline('/home/usuario/materialMaestria/2016trabajoTesisMaestria/sourceCode/bySize/PSMet2/clasSizeUM/MainClasSizeEM.m',75,0)">line 75</a>)
+tablaDSTest = readtable(fileHandlerTest,'Delimiter',',','Format',formatSpec);
+} 
+MainClasSizeEM
+-----------------------------------
+PRUEBA # 1 
+-----------------------------------
+/home/usuario/ml/inputToLearn/002.jpg, ejeMenorSoft_mm = 68.811500, cs=> grande, ce= mediana, ejeMayor_mm=72.800000, ejeMenor_mm=67.800000 
+/home/usuario/ml/inputToLearn/003.jpg, ejeMenorSoft_mm = 69.462300, cs=> grande, ce= mediana, ejeMayor_mm=70.700000, ejeMenor_mm=65.900000 
+/home/usuario/ml/inputToLearn/004.jpg, ejeMenorSoft_mm = 70.544000, cs=> grande, ce= mediana, ejeMayor_mm=68.200000, ejeMenor_mm=67.300000 
+/home/usuario/ml/inputToLearn/007.jpg, ejeMenorSoft_mm = 69.102300, cs=> grande, ce= pequeña, ejeMayor_mm=69.000000, ejeMenor_mm=61.600000 
+/home/usuario/ml/inputToLearn/017.jpg, ejeMenorSoft_mm = 68.786400, cs=> grande, ce= mediana, ejeMayor_mm=71.600000, ejeMenor_mm=67.600000 
+/home/usuario/ml/inputToLearn/028.jpg, ejeMenorSoft_mm = 66.027500, cs=> mediana, ce= pequeña, ejeMayor_mm=66.100000, ejeMenor_mm=63.700000 
+/home/usuario/ml/inputToLearn/032.jpg, ejeMenorSoft_mm = 64.859900, cs=> mediana, ce= pequeña, ejeMayor_mm=68.200000, ejeMenor_mm=62.200000 
+/home/usuario/ml/inputToLearn/033.jpg, ejeMenorSoft_mm = 64.343400, cs=> mediana, ce= pequeña, ejeMayor_mm=67.000000, ejeMenor_mm=62.300000 
+/home/usuario/ml/inputToLearn/036.jpg, ejeMenorSoft_mm = 70.019800, cs=> grande, ce= mediana, ejeMayor_mm=70.100000, ejeMenor_mm=65.800000 
+/home/usuario/ml/inputToLearn/038.jpg, ejeMenorSoft_mm = 70.552400, cs=> grande, ce= mediana, ejeMayor_mm=69.100000, ejeMenor_mm=68.500000 
+/home/usuario/ml/inputToLearn/040.jpg, ejeMenorSoft_mm = 70.290400, cs=> grande, ce= mediana, ejeMayor_mm=70.700000, ejeMenor_mm=68.500000 
+/home/usuario/ml/inputToLearn/050.jpg, ejeMenorSoft_mm = 64.069400, cs=> mediana, ce= pequeña, ejeMayor_mm=64.100000, ejeMenor_mm=62.000000 
+/home/usuario/ml/inputToLearn/061.jpg, ejeMenorSoft_mm = 65.224800, cs=> mediana, ce= pequeña, ejeMayor_mm=68.100000, ejeMenor_mm=63.600000 
+/home/usuario/ml/inputToLearn/066.jpg, ejeMenorSoft_mm = 69.150700, cs=> grande, ce= mediana, ejeMayor_mm=70.900000, ejeMenor_mm=67.700000 
+/home/usuario/ml/inputToLearn/080.jpg, ejeMenorSoft_mm = 64.615000, cs=> mediana, ce= pequeña, ejeMayor_mm=70.500000, ejeMenor_mm=62.900000 
+/home/usuario/ml/inputToLearn/087.jpg, ejeMenorSoft_mm = 62.568400, cs=> pequeña, ce= grande, ejeMayor_mm=74.200000, ejeMenor_mm=72.700000 
+/home/usuario/ml/inputToLearn/088.jpg, ejeMenorSoft_mm = 61.470100, cs=> pequeña, ce= grande, ejeMayor_mm=71.600000, ejeMenor_mm=71.500000 
+/home/usuario/ml/inputToLearn/089.jpg, ejeMenorSoft_mm = 70.034600, cs=> grande, ce= mediana, ejeMayor_mm=71.400000, ejeMenor_mm=67.200000 
+/home/usuario/ml/inputToLearn/090.jpg, ejeMenorSoft_mm = 64.074900, cs=> mediana, ce= pequeña, ejeMayor_mm=67.200000, ejeMenor_mm=62.800000 
+/home/usuario/ml/inputToLearn/091.jpg, ejeMenorSoft_mm = 68.964900, cs=> grande, ce= pequeña, ejeMayor_mm=64.700000, ejeMenor_mm=60.200000 
+/home/usuario/ml/inputToLearn/093.jpg, ejeMenorSoft_mm = 67.468700, cs=> mediana, ce= pequeña, ejeMayor_mm=66.400000, ejeMenor_mm=63.700000 
+/home/usuario/ml/inputToLearn/094.jpg, ejeMenorSoft_mm = 63.552700, cs=> pequeña, ce= grande, ejeMayor_mm=73.800000, ejeMenor_mm=68.700000 
+/home/usuario/ml/inputToLearn/095.jpg, ejeMenorSoft_mm = 66.354000, cs=> mediana, ce= pequeña, ejeMayor_mm=67.800000, ejeMenor_mm=62.200000 
+/home/usuario/ml/inputToLearn/097.jpg, ejeMenorSoft_mm = 71.427600, cs=> grande, ce= pequeña, ejeMayor_mm=63.800000, ejeMenor_mm=63.300000 
+/home/usuario/ml/inputToLearn/098.jpg, ejeMenorSoft_mm = 62.885800, cs=> pequeña, ce= mediana, ejeMayor_mm=72.400000, ejeMenor_mm=66.600000 
+/home/usuario/ml/inputToLearn/099.jpg, ejeMenorSoft_mm = 73.068300, cs=> grande, ce= mediana, ejeMayor_mm=71.900000, ejeMenor_mm=66.800000 
+/home/usuario/ml/inputToLearn/100.jpg, ejeMenorSoft_mm = 61.647800, cs=> pequeña, ce= grande, ejeMayor_mm=67.700000, ejeMenor_mm=69.100000 
+/home/usuario/ml/inputToLearn/101.jpg, ejeMenorSoft_mm = 74.131600, cs=> grande, ce= pequeña, ejeMayor_mm=66.100000, ejeMenor_mm=63.400000 
+/home/usuario/ml/inputToLearn/103.jpg, ejeMenorSoft_mm = 70.330400, cs=> grande, ce= pequeña, ejeMayor_mm=68.300000, ejeMenor_mm=61.100000 
+/home/usuario/ml/inputToLearn/104.jpg, ejeMenorSoft_mm = 64.219300, cs=> mediana, ce= pequeña, ejeMayor_mm=61.800000, ejeMenor_mm=63.700000 
+/home/usuario/ml/inputToLearn/105.jpg, ejeMenorSoft_mm = 64.859600, cs=> mediana, ce= pequeña, ejeMayor_mm=66.400000, ejeMenor_mm=63.900000 
+/home/usuario/ml/inputToLearn/110.jpg, ejeMenorSoft_mm = 69.169200, cs=> grande, ce= mediana, ejeMayor_mm=73.000000, ejeMenor_mm=66.800000 
+/home/usuario/ml/inputToLearn/111.jpg, ejeMenorSoft_mm = 69.777600, cs=> grande, ce= mediana, ejeMayor_mm=71.300000, ejeMenor_mm=67.500000 
+/home/usuario/ml/inputToLearn/112.jpg, ejeMenorSoft_mm = 70.506300, cs=> grande, ce= mediana, ejeMayor_mm=74.500000, ejeMenor_mm=68.300000 
+/home/usuario/ml/inputToLearn/115.jpg, ejeMenorSoft_mm = 66.589300, cs=> mediana, ce= pequeña, ejeMayor_mm=71.900000, ejeMenor_mm=63.400000 
+/home/usuario/ml/inputToLearn/117.jpg, ejeMenorSoft_mm = 64.646400, cs=> mediana, ce= pequeña, ejeMayor_mm=60.600000, ejeMenor_mm=62.200000 
+/home/usuario/ml/inputToLearn/118.jpg, ejeMenorSoft_mm = 67.611900, cs=> mediana, ce= pequeña, ejeMayor_mm=70.000000, ejeMenor_mm=61.300000 
+/home/usuario/ml/inputToLearn/119.jpg, ejeMenorSoft_mm = 67.305300, cs=> mediana, ce= pequeña, ejeMayor_mm=69.000000, ejeMenor_mm=63.900000 
+/home/usuario/ml/inputToLearn/120.jpg, ejeMenorSoft_mm = 70.077700, cs=> grande, ce= mediana, ejeMayor_mm=73.300000, ejeMenor_mm=66.200000 
+/home/usuario/ml/inputToLearn/121.jpg, ejeMenorSoft_mm = 65.252600, cs=> mediana, ce= pequeña, ejeMayor_mm=63.800000, ejeMenor_mm=63.900000 
+/home/usuario/ml/inputToLearn/127.jpg, ejeMenorSoft_mm = 66.736700, cs=> mediana, ce= grande, ejeMayor_mm=60.200000, ejeMenor_mm=68.800000 
+/home/usuario/ml/inputToLearn/128.jpg, ejeMenorSoft_mm = 65.664200, cs=> mediana, ce= pequeña, ejeMayor_mm=69.300000, ejeMenor_mm=62.200000 
+/home/usuario/ml/inputToLearn/129.jpg, ejeMenorSoft_mm = 64.736800, cs=> mediana, ce= pequeña, ejeMayor_mm=64.400000, ejeMenor_mm=61.800000 
+/home/usuario/ml/inputToLearn/130.jpg, ejeMenorSoft_mm = 66.216500, cs=> mediana, ce= pequeña, ejeMayor_mm=65.800000, ejeMenor_mm=63.400000 
+/home/usuario/ml/inputToLearn/131.jpg, ejeMenorSoft_mm = 65.650000, cs=> mediana, ce= pequeña, ejeMayor_mm=71.200000, ejeMenor_mm=63.300000 
+/home/usuario/ml/inputToLearn/133.jpg, ejeMenorSoft_mm = 64.766200, cs=> mediana, ce= pequeña, ejeMayor_mm=68.600000, ejeMenor_mm=63.100000 
+/home/usuario/ml/inputToLearn/134.jpg, ejeMenorSoft_mm = 65.659700, cs=> mediana, ce= pequeña, ejeMayor_mm=63.300000, ejeMenor_mm=62.700000 
+/home/usuario/ml/inputToLearn/136.jpg, ejeMenorSoft_mm = 64.689300, cs=> mediana, ce= pequeña, ejeMayor_mm=64.700000, ejeMenor_mm=62.400000 
+/home/usuario/ml/inputToLearn/139.jpg, ejeMenorSoft_mm = 69.927100, cs=> grande, ce= mediana, ejeMayor_mm=70.200000, ejeMenor_mm=66.900000 
+/home/usuario/ml/inputToLearn/143.jpg, ejeMenorSoft_mm = 73.822300, cs=> grande, ce= mediana, ejeMayor_mm=73.400000, ejeMenor_mm=67.100000 
+/home/usuario/ml/inputToLearn/144.jpg, ejeMenorSoft_mm = 65.138600, cs=> mediana, ce= pequeña, ejeMayor_mm=65.900000, ejeMenor_mm=60.100000 
+/home/usuario/ml/inputToLearn/145.jpg, ejeMenorSoft_mm = 66.308600, cs=> mediana, ce= pequeña, ejeMayor_mm=64.500000, ejeMenor_mm=63.000000 
+/home/usuario/ml/inputToLearn/147.jpg, ejeMenorSoft_mm = 64.601700, cs=> mediana, ce= pequeña, ejeMayor_mm=62.700000, ejeMenor_mm=62.000000 
+/home/usuario/ml/inputToLearn/149.jpg, ejeMenorSoft_mm = 71.429100, cs=> grande, ce= mediana, ejeMayor_mm=68.800000, ejeMenor_mm=68.300000 
+/home/usuario/ml/inputToLearn/150.jpg, ejeMenorSoft_mm = 70.739000, cs=> grande, ce= mediana, ejeMayor_mm=68.000000, ejeMenor_mm=67.800000 
+/home/usuario/ml/inputToLearn/151.jpg, ejeMenorSoft_mm = 72.267100, cs=> grande, ce= mediana, ejeMayor_mm=67.600000, ejeMenor_mm=68.000000 
+/home/usuario/ml/inputToLearn/154.jpg, ejeMenorSoft_mm = 64.464800, cs=> mediana, ce= pequeña, ejeMayor_mm=65.500000, ejeMenor_mm=62.000000 
+/home/usuario/ml/inputToLearn/159.jpg, ejeMenorSoft_mm = 65.185000, cs=> mediana, ce= pequeña, ejeMayor_mm=62.700000, ejeMenor_mm=61.800000 
+/home/usuario/ml/inputToLearn/161.jpg, ejeMenorSoft_mm = 69.204600, cs=> grande, ce= mediana, ejeMayor_mm=69.000000, ejeMenor_mm=66.400000 
+/home/usuario/ml/inputToLearn/168.jpg, ejeMenorSoft_mm = 70.704400, cs=> grande, ce= mediana, ejeMayor_mm=68.400000, ejeMenor_mm=68.200000 
+/home/usuario/ml/inputToLearn/169.jpg, ejeMenorSoft_mm = 69.784100, cs=> grande, ce= mediana, ejeMayor_mm=70.000000, ejeMenor_mm=65.700000 
+/home/usuario/ml/inputToLearn/171.jpg, ejeMenorSoft_mm = 71.838600, cs=> grande, ce= mediana, ejeMayor_mm=71.500000, ejeMenor_mm=67.600000 
+/home/usuario/ml/inputToLearn/172.jpg, ejeMenorSoft_mm = 66.622700, cs=> mediana, ce= pequeña, ejeMayor_mm=65.000000, ejeMenor_mm=63.700000 
+/home/usuario/ml/inputToLearn/175.jpg, ejeMenorSoft_mm = 65.152500, cs=> mediana, ce= pequeña, ejeMayor_mm=66.100000, ejeMenor_mm=63.400000 
+/home/usuario/ml/inputToLearn/176.jpg, ejeMenorSoft_mm = 70.767600, cs=> grande, ce= pequeña, ejeMayor_mm=76.000000, ejeMenor_mm=61.300000 
+/home/usuario/ml/inputToLearn/180.jpg, ejeMenorSoft_mm = 68.809000, cs=> grande, ce= mediana, ejeMayor_mm=70.500000, ejeMenor_mm=64.800000 
+/home/usuario/ml/inputToLearn/181.jpg, ejeMenorSoft_mm = 72.596500, cs=> grande, ce= mediana, ejeMayor_mm=77.200000, ejeMenor_mm=67.400000 
+/home/usuario/ml/inputToLearn/184.jpg, ejeMenorSoft_mm = 68.928200, cs=> grande, ce= mediana, ejeMayor_mm=72.000000, ejeMenor_mm=65.200000 
+/home/usuario/ml/inputToLearn/185.jpg, ejeMenorSoft_mm = 70.149400, cs=> grande, ce= pequeña, ejeMayor_mm=67.400000, ejeMenor_mm=62.300000 
+/home/usuario/ml/inputToLearn/187.jpg, ejeMenorSoft_mm = 69.673600, cs=> grande, ce= mediana, ejeMayor_mm=67.700000, ejeMenor_mm=67.200000 
+/home/usuario/ml/inputToLearn/188.jpg, ejeMenorSoft_mm = 68.762400, cs=> grande, ce= mediana, ejeMayor_mm=67.800000, ejeMenor_mm=65.400000 
+/home/usuario/ml/inputToLearn/189.jpg, ejeMenorSoft_mm = 65.203700, cs=> mediana, ce= pequeña, ejeMayor_mm=65.500000, ejeMenor_mm=62.400000 
+/home/usuario/ml/inputToLearn/190.jpg, ejeMenorSoft_mm = 66.021200, cs=> mediana, ce= pequeña, ejeMayor_mm=68.000000, ejeMenor_mm=62.100000 
+/home/usuario/ml/inputToLearn/193.jpg, ejeMenorSoft_mm = 71.588100, cs=> grande, ce= mediana, ejeMayor_mm=72.900000, ejeMenor_mm=67.700000 
+/home/usuario/ml/inputToLearn/195.jpg, ejeMenorSoft_mm = 69.610700, cs=> grande, ce= mediana, ejeMayor_mm=67.700000, ejeMenor_mm=66.900000 
+/home/usuario/ml/inputToLearn/196.jpg, ejeMenorSoft_mm = 66.405800, cs=> mediana, ce= pequeña, ejeMayor_mm=67.000000, ejeMenor_mm=63.300000 
+/home/usuario/ml/inputToLearn/197.jpg, ejeMenorSoft_mm = 68.737100, cs=> grande, ce= mediana, ejeMayor_mm=70.000000, ejeMenor_mm=65.400000 
+/home/usuario/ml/inputToLearn/202.jpg, ejeMenorSoft_mm = 69.808400, cs=> grande, ce= mediana, ejeMayor_mm=73.100000, ejeMenor_mm=64.900000 
+/home/usuario/ml/inputToLearn/203.jpg, ejeMenorSoft_mm = 69.451500, cs=> grande, ce= mediana, ejeMayor_mm=73.500000, ejeMenor_mm=65.500000 
+/home/usuario/ml/inputToLearn/205.jpg, ejeMenorSoft_mm = 67.824800, cs=> mediana, ce= pequeña, ejeMayor_mm=65.500000, ejeMenor_mm=63.200000 
+/home/usuario/ml/inputToLearn/206.jpg, ejeMenorSoft_mm = 66.621800, cs=> mediana, ce= pequeña, ejeMayor_mm=66.500000, ejeMenor_mm=63.900000 
+Resultados 
+-----------
+ clas.software                  |
+ pequeno  | mediana  | grande   | clas.experto|
+        28|        35|         7| pequeno     |
+         1|        34|        33| mediana     |
+         4|         1|        64| grande      |
+Clase=1, precision=0.848485, sensibilidad=0.400000 especificidad=0.963504 exactitud=0.608696
+CREANDO ARCHIVO METRICAS 
+Clase=2, precision=0.485714, sensibilidad=0.500000 especificidad=0.741007 exactitud=0.608696
+CREANDO ARCHIVO METRICAS 
+Clase=3, precision=0.615385, sensibilidad=0.927536 especificidad=0.710145 exactitud=0.608696
+CREANDO ARCHIVO METRICAS 
+-----------------------------------
+RESULTADOS 
+Total de pruebas: 1
+-----------------------------------
+
+matrizAcumulados =
+
+    0.8485    0.4000    0.9635    0.6087
+    0.4857    0.5000    0.7410    0.6087
+    0.6154    0.9275    0.7101    0.6087
+
+ clas.software                  |
+ precisión  | sensibilidad | especificidad  | Exactitud  | CLASE |
+    0.8485 |    0.4000 |    0.9635 |    0.6087 | 1 |
+    0.4857 |    0.5000 |    0.7410 |    0.6087 | 2 |
+    0.6154 |    0.9275 |    0.7101 |    0.6087 | 3 |
+
+ ------------------------------- 
+
+ RESULTADO GENERAL DEL ALGORITMO 
+precision=     0.6499 | exactitud=     0.6087 | sensibilidad=     0.6092 | especificidad=     0.8049 
+MainClasSizeEM
+-----------------------------------
+PRUEBA # 1 
+-----------------------------------
+/home/usuario/ml/inputToLearn/002.jpg, ejeMenorSoft_mm = 68.811500, cs=> grande, ce= mediana, ejeMayor_mm=72.800000, ejeMenor_mm=67.800000 
+/home/usuario/ml/inputToLearn/003.jpg, ejeMenorSoft_mm = 69.462300, cs=> grande, ce= mediana, ejeMayor_mm=70.700000, ejeMenor_mm=65.900000 
+/home/usuario/ml/inputToLearn/004.jpg, ejeMenorSoft_mm = 70.544000, cs=> grande, ce= mediana, ejeMayor_mm=68.200000, ejeMenor_mm=67.300000 
+/home/usuario/ml/inputToLearn/007.jpg, ejeMenorSoft_mm = 69.102300, cs=> grande, ce= pequeña, ejeMayor_mm=69.000000, ejeMenor_mm=61.600000 
+/home/usuario/ml/inputToLearn/017.jpg, ejeMenorSoft_mm = 68.786400, cs=> grande, ce= mediana, ejeMayor_mm=71.600000, ejeMenor_mm=67.600000 
+/home/usuario/ml/inputToLearn/028.jpg, ejeMenorSoft_mm = 66.027500, cs=> mediana, ce= pequeña, ejeMayor_mm=66.100000, ejeMenor_mm=63.700000 
+/home/usuario/ml/inputToLearn/032.jpg, ejeMenorSoft_mm = 64.859900, cs=> mediana, ce= pequeña, ejeMayor_mm=68.200000, ejeMenor_mm=62.200000 
+/home/usuario/ml/inputToLearn/033.jpg, ejeMenorSoft_mm = 64.343400, cs=> mediana, ce= pequeña, ejeMayor_mm=67.000000, ejeMenor_mm=62.300000 
+/home/usuario/ml/inputToLearn/036.jpg, ejeMenorSoft_mm = 70.019800, cs=> grande, ce= mediana, ejeMayor_mm=70.100000, ejeMenor_mm=65.800000 
+/home/usuario/ml/inputToLearn/038.jpg, ejeMenorSoft_mm = 70.552400, cs=> grande, ce= mediana, ejeMayor_mm=69.100000, ejeMenor_mm=68.500000 
+/home/usuario/ml/inputToLearn/040.jpg, ejeMenorSoft_mm = 70.290400, cs=> grande, ce= mediana, ejeMayor_mm=70.700000, ejeMenor_mm=68.500000 
+/home/usuario/ml/inputToLearn/050.jpg, ejeMenorSoft_mm = 64.069400, cs=> mediana, ce= pequeña, ejeMayor_mm=64.100000, ejeMenor_mm=62.000000 
+/home/usuario/ml/inputToLearn/061.jpg, ejeMenorSoft_mm = 65.224800, cs=> mediana, ce= pequeña, ejeMayor_mm=68.100000, ejeMenor_mm=63.600000 
+/home/usuario/ml/inputToLearn/066.jpg, ejeMenorSoft_mm = 69.150700, cs=> grande, ce= mediana, ejeMayor_mm=70.900000, ejeMenor_mm=67.700000 
+/home/usuario/ml/inputToLearn/080.jpg, ejeMenorSoft_mm = 64.615000, cs=> mediana, ce= pequeña, ejeMayor_mm=70.500000, ejeMenor_mm=62.900000 
+/home/usuario/ml/inputToLearn/087.jpg, ejeMenorSoft_mm = 62.568400, cs=> pequeña, ce= grande, ejeMayor_mm=74.200000, ejeMenor_mm=72.700000 
+/home/usuario/ml/inputToLearn/088.jpg, ejeMenorSoft_mm = 61.470100, cs=> pequeña, ce= grande, ejeMayor_mm=71.600000, ejeMenor_mm=71.500000 
+/home/usuario/ml/inputToLearn/089.jpg, ejeMenorSoft_mm = 70.034600, cs=> grande, ce= mediana, ejeMayor_mm=71.400000, ejeMenor_mm=67.200000 
+/home/usuario/ml/inputToLearn/090.jpg, ejeMenorSoft_mm = 64.074900, cs=> mediana, ce= pequeña, ejeMayor_mm=67.200000, ejeMenor_mm=62.800000 
+/home/usuario/ml/inputToLearn/091.jpg, ejeMenorSoft_mm = 68.964900, cs=> grande, ce= pequeña, ejeMayor_mm=64.700000, ejeMenor_mm=60.200000 
+/home/usuario/ml/inputToLearn/093.jpg, ejeMenorSoft_mm = 67.468700, cs=> mediana, ce= pequeña, ejeMayor_mm=66.400000, ejeMenor_mm=63.700000 
+/home/usuario/ml/inputToLearn/094.jpg, ejeMenorSoft_mm = 63.552700, cs=> pequeña, ce= grande, ejeMayor_mm=73.800000, ejeMenor_mm=68.700000 
+/home/usuario/ml/inputToLearn/095.jpg, ejeMenorSoft_mm = 66.354000, cs=> mediana, ce= pequeña, ejeMayor_mm=67.800000, ejeMenor_mm=62.200000 
+/home/usuario/ml/inputToLearn/097.jpg, ejeMenorSoft_mm = 71.427600, cs=> grande, ce= pequeña, ejeMayor_mm=63.800000, ejeMenor_mm=63.300000 
+/home/usuario/ml/inputToLearn/098.jpg, ejeMenorSoft_mm = 62.885800, cs=> pequeña, ce= mediana, ejeMayor_mm=72.400000, ejeMenor_mm=66.600000 
+/home/usuario/ml/inputToLearn/099.jpg, ejeMenorSoft_mm = 73.068300, cs=> grande, ce= mediana, ejeMayor_mm=71.900000, ejeMenor_mm=66.800000 
+/home/usuario/ml/inputToLearn/100.jpg, ejeMenorSoft_mm = 61.647800, cs=> pequeña, ce= grande, ejeMayor_mm=67.700000, ejeMenor_mm=69.100000 
+/home/usuario/ml/inputToLearn/101.jpg, ejeMenorSoft_mm = 74.131600, cs=> grande, ce= pequeña, ejeMayor_mm=66.100000, ejeMenor_mm=63.400000 
+/home/usuario/ml/inputToLearn/103.jpg, ejeMenorSoft_mm = 70.330400, cs=> grande, ce= pequeña, ejeMayor_mm=68.300000, ejeMenor_mm=61.100000 
+/home/usuario/ml/inputToLearn/104.jpg, ejeMenorSoft_mm = 64.219300, cs=> mediana, ce= pequeña, ejeMayor_mm=61.800000, ejeMenor_mm=63.700000 
+/home/usuario/ml/inputToLearn/105.jpg, ejeMenorSoft_mm = 64.859600, cs=> mediana, ce= pequeña, ejeMayor_mm=66.400000, ejeMenor_mm=63.900000 
+/home/usuario/ml/inputToLearn/110.jpg, ejeMenorSoft_mm = 69.169200, cs=> grande, ce= mediana, ejeMayor_mm=73.000000, ejeMenor_mm=66.800000 
+/home/usuario/ml/inputToLearn/111.jpg, ejeMenorSoft_mm = 69.777600, cs=> grande, ce= mediana, ejeMayor_mm=71.300000, ejeMenor_mm=67.500000 
+/home/usuario/ml/inputToLearn/112.jpg, ejeMenorSoft_mm = 70.506300, cs=> grande, ce= mediana, ejeMayor_mm=74.500000, ejeMenor_mm=68.300000 
+/home/usuario/ml/inputToLearn/115.jpg, ejeMenorSoft_mm = 66.589300, cs=> mediana, ce= pequeña, ejeMayor_mm=71.900000, ejeMenor_mm=63.400000 
+/home/usuario/ml/inputToLearn/117.jpg, ejeMenorSoft_mm = 64.646400, cs=> mediana, ce= pequeña, ejeMayor_mm=60.600000, ejeMenor_mm=62.200000 
+/home/usuario/ml/inputToLearn/118.jpg, ejeMenorSoft_mm = 67.611900, cs=> mediana, ce= pequeña, ejeMayor_mm=70.000000, ejeMenor_mm=61.300000 
+/home/usuario/ml/inputToLearn/119.jpg, ejeMenorSoft_mm = 67.305300, cs=> mediana, ce= pequeña, ejeMayor_mm=69.000000, ejeMenor_mm=63.900000 
+/home/usuario/ml/inputToLearn/120.jpg, ejeMenorSoft_mm = 70.077700, cs=> grande, ce= mediana, ejeMayor_mm=73.300000, ejeMenor_mm=66.200000 
+/home/usuario/ml/inputToLearn/121.jpg, ejeMenorSoft_mm = 65.252600, cs=> mediana, ce= pequeña, ejeMayor_mm=63.800000, ejeMenor_mm=63.900000 
+/home/usuario/ml/inputToLearn/127.jpg, ejeMenorSoft_mm = 66.736700, cs=> mediana, ce= grande, ejeMayor_mm=60.200000, ejeMenor_mm=68.800000 
+/home/usuario/ml/inputToLearn/128.jpg, ejeMenorSoft_mm = 65.664200, cs=> mediana, ce= pequeña, ejeMayor_mm=69.300000, ejeMenor_mm=62.200000 
+/home/usuario/ml/inputToLearn/129.jpg, ejeMenorSoft_mm = 64.736800, cs=> mediana, ce= pequeña, ejeMayor_mm=64.400000, ejeMenor_mm=61.800000 
+/home/usuario/ml/inputToLearn/130.jpg, ejeMenorSoft_mm = 66.216500, cs=> mediana, ce= pequeña, ejeMayor_mm=65.800000, ejeMenor_mm=63.400000 
+/home/usuario/ml/inputToLearn/131.jpg, ejeMenorSoft_mm = 65.650000, cs=> mediana, ce= pequeña, ejeMayor_mm=71.200000, ejeMenor_mm=63.300000 
+/home/usuario/ml/inputToLearn/133.jpg, ejeMenorSoft_mm = 64.766200, cs=> mediana, ce= pequeña, ejeMayor_mm=68.600000, ejeMenor_mm=63.100000 
+/home/usuario/ml/inputToLearn/134.jpg, ejeMenorSoft_mm = 65.659700, cs=> mediana, ce= pequeña, ejeMayor_mm=63.300000, ejeMenor_mm=62.700000 
+/home/usuario/ml/inputToLearn/136.jpg, ejeMenorSoft_mm = 64.689300, cs=> mediana, ce= pequeña, ejeMayor_mm=64.700000, ejeMenor_mm=62.400000 
+/home/usuario/ml/inputToLearn/139.jpg, ejeMenorSoft_mm = 69.927100, cs=> grande, ce= mediana, ejeMayor_mm=70.200000, ejeMenor_mm=66.900000 
+/home/usuario/ml/inputToLearn/143.jpg, ejeMenorSoft_mm = 73.822300, cs=> grande, ce= mediana, ejeMayor_mm=73.400000, ejeMenor_mm=67.100000 
+/home/usuario/ml/inputToLearn/144.jpg, ejeMenorSoft_mm = 65.138600, cs=> mediana, ce= pequeña, ejeMayor_mm=65.900000, ejeMenor_mm=60.100000 
+/home/usuario/ml/inputToLearn/145.jpg, ejeMenorSoft_mm = 66.308600, cs=> mediana, ce= pequeña, ejeMayor_mm=64.500000, ejeMenor_mm=63.000000 
+/home/usuario/ml/inputToLearn/147.jpg, ejeMenorSoft_mm = 64.601700, cs=> mediana, ce= pequeña, ejeMayor_mm=62.700000, ejeMenor_mm=62.000000 
+/home/usuario/ml/inputToLearn/149.jpg, ejeMenorSoft_mm = 71.429100, cs=> grande, ce= mediana, ejeMayor_mm=68.800000, ejeMenor_mm=68.300000 
+/home/usuario/ml/inputToLearn/150.jpg, ejeMenorSoft_mm = 70.739000, cs=> grande, ce= mediana, ejeMayor_mm=68.000000, ejeMenor_mm=67.800000 
+/home/usuario/ml/inputToLearn/151.jpg, ejeMenorSoft_mm = 72.267100, cs=> grande, ce= mediana, ejeMayor_mm=67.600000, ejeMenor_mm=68.000000 
+/home/usuario/ml/inputToLearn/154.jpg, ejeMenorSoft_mm = 64.464800, cs=> mediana, ce= pequeña, ejeMayor_mm=65.500000, ejeMenor_mm=62.000000 
+/home/usuario/ml/inputToLearn/159.jpg, ejeMenorSoft_mm = 65.185000, cs=> mediana, ce= pequeña, ejeMayor_mm=62.700000, ejeMenor_mm=61.800000 
+/home/usuario/ml/inputToLearn/161.jpg, ejeMenorSoft_mm = 69.204600, cs=> grande, ce= mediana, ejeMayor_mm=69.000000, ejeMenor_mm=66.400000 
+/home/usuario/ml/inputToLearn/168.jpg, ejeMenorSoft_mm = 70.704400, cs=> grande, ce= mediana, ejeMayor_mm=68.400000, ejeMenor_mm=68.200000 
+/home/usuario/ml/inputToLearn/169.jpg, ejeMenorSoft_mm = 69.784100, cs=> grande, ce= mediana, ejeMayor_mm=70.000000, ejeMenor_mm=65.700000 
+/home/usuario/ml/inputToLearn/171.jpg, ejeMenorSoft_mm = 71.838600, cs=> grande, ce= mediana, ejeMayor_mm=71.500000, ejeMenor_mm=67.600000 
+/home/usuario/ml/inputToLearn/172.jpg, ejeMenorSoft_mm = 66.622700, cs=> mediana, ce= pequeña, ejeMayor_mm=65.000000, ejeMenor_mm=63.700000 
+/home/usuario/ml/inputToLearn/175.jpg, ejeMenorSoft_mm = 65.152500, cs=> mediana, ce= pequeña, ejeMayor_mm=66.100000, ejeMenor_mm=63.400000 
+/home/usuario/ml/inputToLearn/176.jpg, ejeMenorSoft_mm = 70.767600, cs=> grande, ce= pequeña, ejeMayor_mm=76.000000, ejeMenor_mm=61.300000 
+/home/usuario/ml/inputToLearn/180.jpg, ejeMenorSoft_mm = 68.809000, cs=> grande, ce= mediana, ejeMayor_mm=70.500000, ejeMenor_mm=64.800000 
+/home/usuario/ml/inputToLearn/181.jpg, ejeMenorSoft_mm = 72.596500, cs=> grande, ce= mediana, ejeMayor_mm=77.200000, ejeMenor_mm=67.400000 
+/home/usuario/ml/inputToLearn/184.jpg, ejeMenorSoft_mm = 68.928200, cs=> grande, ce= mediana, ejeMayor_mm=72.000000, ejeMenor_mm=65.200000 
+/home/usuario/ml/inputToLearn/185.jpg, ejeMenorSoft_mm = 70.149400, cs=> grande, ce= pequeña, ejeMayor_mm=67.400000, ejeMenor_mm=62.300000 
+/home/usuario/ml/inputToLearn/187.jpg, ejeMenorSoft_mm = 69.673600, cs=> grande, ce= mediana, ejeMayor_mm=67.700000, ejeMenor_mm=67.200000 
+/home/usuario/ml/inputToLearn/188.jpg, ejeMenorSoft_mm = 68.762400, cs=> grande, ce= mediana, ejeMayor_mm=67.800000, ejeMenor_mm=65.400000 
+/home/usuario/ml/inputToLearn/189.jpg, ejeMenorSoft_mm = 65.203700, cs=> mediana, ce= pequeña, ejeMayor_mm=65.500000, ejeMenor_mm=62.400000 
+/home/usuario/ml/inputToLearn/190.jpg, ejeMenorSoft_mm = 66.021200, cs=> mediana, ce= pequeña, ejeMayor_mm=68.000000, ejeMenor_mm=62.100000 
+/home/usuario/ml/inputToLearn/193.jpg, ejeMenorSoft_mm = 71.588100, cs=> grande, ce= mediana, ejeMayor_mm=72.900000, ejeMenor_mm=67.700000 
+/home/usuario/ml/inputToLearn/195.jpg, ejeMenorSoft_mm = 69.610700, cs=> grande, ce= mediana, ejeMayor_mm=67.700000, ejeMenor_mm=66.900000 
+/home/usuario/ml/inputToLearn/196.jpg, ejeMenorSoft_mm = 66.405800, cs=> mediana, ce= pequeña, ejeMayor_mm=67.000000, ejeMenor_mm=63.300000 
+/home/usuario/ml/inputToLearn/197.jpg, ejeMenorSoft_mm = 68.737100, cs=> grande, ce= mediana, ejeMayor_mm=70.000000, ejeMenor_mm=65.400000 
+/home/usuario/ml/inputToLearn/202.jpg, ejeMenorSoft_mm = 69.808400, cs=> grande, ce= mediana, ejeMayor_mm=73.100000, ejeMenor_mm=64.900000 
+/home/usuario/ml/inputToLearn/203.jpg, ejeMenorSoft_mm = 69.451500, cs=> grande, ce= mediana, ejeMayor_mm=73.500000, ejeMenor_mm=65.500000 
+/home/usuario/ml/inputToLearn/205.jpg, ejeMenorSoft_mm = 67.824800, cs=> mediana, ce= pequeña, ejeMayor_mm=65.500000, ejeMenor_mm=63.200000 
+/home/usuario/ml/inputToLearn/206.jpg, ejeMenorSoft_mm = 66.621800, cs=> mediana, ce= pequeña, ejeMayor_mm=66.500000, ejeMenor_mm=63.900000 
+Resultados 
+-----------
+ clas.software                  |
+ pequeno  | mediana  | grande   | clas.experto|
+        28|        35|         7| pequeno     |
+         1|        34|        33| mediana     |
+         4|         1|        64| grande      |
+Clase=1, precision=0.848485, sensibilidad=0.400000 especificidad=0.963504 exactitud=0.608696
+Clase=2, precision=0.485714, sensibilidad=0.500000 especificidad=0.741007 exactitud=0.608696
+Clase=3, precision=0.615385, sensibilidad=0.927536 especificidad=0.710145 exactitud=0.608696
+-----------------------------------
+RESULTADOS 
+Total de pruebas: 1
+-----------------------------------
+
+matrizAcumulados =
+
+    0.8485    0.4000    0.9635    0.6087
+    0.4857    0.5000    0.7410    0.6087
+    0.6154    0.9275    0.7101    0.6087
+
+ clas.software                  |
+ precisión  | sensibilidad | especificidad  | Exactitud  | CLASE |
+    0.8485 |    0.4000 |    0.9635 |    0.6087 | 1 |
+    0.4857 |    0.5000 |    0.7410 |    0.6087 | 2 |
+    0.6154 |    0.9275 |    0.7101 |    0.6087 | 3 |
+
+ ------------------------------- 
+
+ RESULTADO GENERAL DEL ALGORITMO 
+precision=     0.6499 | exactitud=     0.6087 | sensibilidad=     0.6092 | especificidad=     0.8049 
+MainClasSizeEM
+-----------------------------------
+PRUEBA # 1 
+-----------------------------------
+/home/usuario/ml/inputToLearn/002.jpg, ejeMenorSoft_mm = 68.811500, cs=> grande, ce= mediana, ejeMayor_mm=72.800000, ejeMenor_mm=67.800000 
+/home/usuario/ml/inputToLearn/003.jpg, ejeMenorSoft_mm = 69.462300, cs=> grande, ce= mediana, ejeMayor_mm=70.700000, ejeMenor_mm=65.900000 
+/home/usuario/ml/inputToLearn/004.jpg, ejeMenorSoft_mm = 70.544000, cs=> grande, ce= mediana, ejeMayor_mm=68.200000, ejeMenor_mm=67.300000 
+/home/usuario/ml/inputToLearn/007.jpg, ejeMenorSoft_mm = 69.102300, cs=> grande, ce= pequeña, ejeMayor_mm=69.000000, ejeMenor_mm=61.600000 
+/home/usuario/ml/inputToLearn/017.jpg, ejeMenorSoft_mm = 68.786400, cs=> grande, ce= mediana, ejeMayor_mm=71.600000, ejeMenor_mm=67.600000 
+/home/usuario/ml/inputToLearn/028.jpg, ejeMenorSoft_mm = 66.027500, cs=> mediana, ce= pequeña, ejeMayor_mm=66.100000, ejeMenor_mm=63.700000 
+/home/usuario/ml/inputToLearn/032.jpg, ejeMenorSoft_mm = 64.859900, cs=> mediana, ce= pequeña, ejeMayor_mm=68.200000, ejeMenor_mm=62.200000 
+/home/usuario/ml/inputToLearn/033.jpg, ejeMenorSoft_mm = 64.343400, cs=> mediana, ce= pequeña, ejeMayor_mm=67.000000, ejeMenor_mm=62.300000 
+/home/usuario/ml/inputToLearn/036.jpg, ejeMenorSoft_mm = 70.019800, cs=> grande, ce= mediana, ejeMayor_mm=70.100000, ejeMenor_mm=65.800000 
+/home/usuario/ml/inputToLearn/038.jpg, ejeMenorSoft_mm = 70.552400, cs=> grande, ce= mediana, ejeMayor_mm=69.100000, ejeMenor_mm=68.500000 
+/home/usuario/ml/inputToLearn/040.jpg, ejeMenorSoft_mm = 70.290400, cs=> grande, ce= mediana, ejeMayor_mm=70.700000, ejeMenor_mm=68.500000 
+/home/usuario/ml/inputToLearn/050.jpg, ejeMenorSoft_mm = 64.069400, cs=> mediana, ce= pequeña, ejeMayor_mm=64.100000, ejeMenor_mm=62.000000 
+/home/usuario/ml/inputToLearn/061.jpg, ejeMenorSoft_mm = 65.224800, cs=> mediana, ce= pequeña, ejeMayor_mm=68.100000, ejeMenor_mm=63.600000 
+/home/usuario/ml/inputToLearn/066.jpg, ejeMenorSoft_mm = 69.150700, cs=> grande, ce= mediana, ejeMayor_mm=70.900000, ejeMenor_mm=67.700000 
+/home/usuario/ml/inputToLearn/080.jpg, ejeMenorSoft_mm = 64.615000, cs=> mediana, ce= pequeña, ejeMayor_mm=70.500000, ejeMenor_mm=62.900000 
+/home/usuario/ml/inputToLearn/087.jpg, ejeMenorSoft_mm = 62.568400, cs=> pequeña, ce= grande, ejeMayor_mm=74.200000, ejeMenor_mm=72.700000 
+/home/usuario/ml/inputToLearn/088.jpg, ejeMenorSoft_mm = 61.470100, cs=> pequeña, ce= grande, ejeMayor_mm=71.600000, ejeMenor_mm=71.500000 
+/home/usuario/ml/inputToLearn/089.jpg, ejeMenorSoft_mm = 70.034600, cs=> grande, ce= mediana, ejeMayor_mm=71.400000, ejeMenor_mm=67.200000 
+/home/usuario/ml/inputToLearn/090.jpg, ejeMenorSoft_mm = 64.074900, cs=> mediana, ce= pequeña, ejeMayor_mm=67.200000, ejeMenor_mm=62.800000 
+/home/usuario/ml/inputToLearn/091.jpg, ejeMenorSoft_mm = 68.964900, cs=> grande, ce= pequeña, ejeMayor_mm=64.700000, ejeMenor_mm=60.200000 
+/home/usuario/ml/inputToLearn/093.jpg, ejeMenorSoft_mm = 67.468700, cs=> mediana, ce= pequeña, ejeMayor_mm=66.400000, ejeMenor_mm=63.700000 
+/home/usuario/ml/inputToLearn/094.jpg, ejeMenorSoft_mm = 63.552700, cs=> pequeña, ce= grande, ejeMayor_mm=73.800000, ejeMenor_mm=68.700000 
+/home/usuario/ml/inputToLearn/095.jpg, ejeMenorSoft_mm = 66.354000, cs=> mediana, ce= pequeña, ejeMayor_mm=67.800000, ejeMenor_mm=62.200000 
+/home/usuario/ml/inputToLearn/097.jpg, ejeMenorSoft_mm = 71.427600, cs=> grande, ce= pequeña, ejeMayor_mm=63.800000, ejeMenor_mm=63.300000 
+/home/usuario/ml/inputToLearn/098.jpg, ejeMenorSoft_mm = 62.885800, cs=> pequeña, ce= mediana, ejeMayor_mm=72.400000, ejeMenor_mm=66.600000 
+/home/usuario/ml/inputToLearn/099.jpg, ejeMenorSoft_mm = 73.068300, cs=> grande, ce= mediana, ejeMayor_mm=71.900000, ejeMenor_mm=66.800000 
+/home/usuario/ml/inputToLearn/100.jpg, ejeMenorSoft_mm = 61.647800, cs=> pequeña, ce= grande, ejeMayor_mm=67.700000, ejeMenor_mm=69.100000 
+/home/usuario/ml/inputToLearn/101.jpg, ejeMenorSoft_mm = 74.131600, cs=> grande, ce= pequeña, ejeMayor_mm=66.100000, ejeMenor_mm=63.400000 
+/home/usuario/ml/inputToLearn/103.jpg, ejeMenorSoft_mm = 70.330400, cs=> grande, ce= pequeña, ejeMayor_mm=68.300000, ejeMenor_mm=61.100000 
+/home/usuario/ml/inputToLearn/104.jpg, ejeMenorSoft_mm = 64.219300, cs=> mediana, ce= pequeña, ejeMayor_mm=61.800000, ejeMenor_mm=63.700000 
+/home/usuario/ml/inputToLearn/105.jpg, ejeMenorSoft_mm = 64.859600, cs=> mediana, ce= pequeña, ejeMayor_mm=66.400000, ejeMenor_mm=63.900000 
+/home/usuario/ml/inputToLearn/110.jpg, ejeMenorSoft_mm = 69.169200, cs=> grande, ce= mediana, ejeMayor_mm=73.000000, ejeMenor_mm=66.800000 
+/home/usuario/ml/inputToLearn/111.jpg, ejeMenorSoft_mm = 69.777600, cs=> grande, ce= mediana, ejeMayor_mm=71.300000, ejeMenor_mm=67.500000 
+/home/usuario/ml/inputToLearn/112.jpg, ejeMenorSoft_mm = 70.506300, cs=> grande, ce= mediana, ejeMayor_mm=74.500000, ejeMenor_mm=68.300000 
+/home/usuario/ml/inputToLearn/115.jpg, ejeMenorSoft_mm = 66.589300, cs=> mediana, ce= pequeña, ejeMayor_mm=71.900000, ejeMenor_mm=63.400000 
+/home/usuario/ml/inputToLearn/117.jpg, ejeMenorSoft_mm = 64.646400, cs=> mediana, ce= pequeña, ejeMayor_mm=60.600000, ejeMenor_mm=62.200000 
+/home/usuario/ml/inputToLearn/118.jpg, ejeMenorSoft_mm = 67.611900, cs=> mediana, ce= pequeña, ejeMayor_mm=70.000000, ejeMenor_mm=61.300000 
+/home/usuario/ml/inputToLearn/119.jpg, ejeMenorSoft_mm = 67.305300, cs=> mediana, ce= pequeña, ejeMayor_mm=69.000000, ejeMenor_mm=63.900000 
+/home/usuario/ml/inputToLearn/120.jpg, ejeMenorSoft_mm = 70.077700, cs=> grande, ce= mediana, ejeMayor_mm=73.300000, ejeMenor_mm=66.200000 
+/home/usuario/ml/inputToLearn/121.jpg, ejeMenorSoft_mm = 65.252600, cs=> mediana, ce= pequeña, ejeMayor_mm=63.800000, ejeMenor_mm=63.900000 
+/home/usuario/ml/inputToLearn/127.jpg, ejeMenorSoft_mm = 66.736700, cs=> mediana, ce= grande, ejeMayor_mm=60.200000, ejeMenor_mm=68.800000 
+/home/usuario/ml/inputToLearn/128.jpg, ejeMenorSoft_mm = 65.664200, cs=> mediana, ce= pequeña, ejeMayor_mm=69.300000, ejeMenor_mm=62.200000 
+/home/usuario/ml/inputToLearn/129.jpg, ejeMenorSoft_mm = 64.736800, cs=> mediana, ce= pequeña, ejeMayor_mm=64.400000, ejeMenor_mm=61.800000 
+/home/usuario/ml/inputToLearn/130.jpg, ejeMenorSoft_mm = 66.216500, cs=> mediana, ce= pequeña, ejeMayor_mm=65.800000, ejeMenor_mm=63.400000 
+/home/usuario/ml/inputToLearn/131.jpg, ejeMenorSoft_mm = 65.650000, cs=> mediana, ce= pequeña, ejeMayor_mm=71.200000, ejeMenor_mm=63.300000 
+/home/usuario/ml/inputToLearn/133.jpg, ejeMenorSoft_mm = 64.766200, cs=> mediana, ce= pequeña, ejeMayor_mm=68.600000, ejeMenor_mm=63.100000 
+/home/usuario/ml/inputToLearn/134.jpg, ejeMenorSoft_mm = 65.659700, cs=> mediana, ce= pequeña, ejeMayor_mm=63.300000, ejeMenor_mm=62.700000 
+/home/usuario/ml/inputToLearn/136.jpg, ejeMenorSoft_mm = 64.689300, cs=> mediana, ce= pequeña, ejeMayor_mm=64.700000, ejeMenor_mm=62.400000 
+/home/usuario/ml/inputToLearn/139.jpg, ejeMenorSoft_mm = 69.927100, cs=> grande, ce= mediana, ejeMayor_mm=70.200000, ejeMenor_mm=66.900000 
+/home/usuario/ml/inputToLearn/143.jpg, ejeMenorSoft_mm = 73.822300, cs=> grande, ce= mediana, ejeMayor_mm=73.400000, ejeMenor_mm=67.100000 
+/home/usuario/ml/inputToLearn/144.jpg, ejeMenorSoft_mm = 65.138600, cs=> mediana, ce= pequeña, ejeMayor_mm=65.900000, ejeMenor_mm=60.100000 
+/home/usuario/ml/inputToLearn/145.jpg, ejeMenorSoft_mm = 66.308600, cs=> mediana, ce= pequeña, ejeMayor_mm=64.500000, ejeMenor_mm=63.000000 
+/home/usuario/ml/inputToLearn/147.jpg, ejeMenorSoft_mm = 64.601700, cs=> mediana, ce= pequeña, ejeMayor_mm=62.700000, ejeMenor_mm=62.000000 
+/home/usuario/ml/inputToLearn/149.jpg, ejeMenorSoft_mm = 71.429100, cs=> grande, ce= mediana, ejeMayor_mm=68.800000, ejeMenor_mm=68.300000 
+/home/usuario/ml/inputToLearn/150.jpg, ejeMenorSoft_mm = 70.739000, cs=> grande, ce= mediana, ejeMayor_mm=68.000000, ejeMenor_mm=67.800000 
+/home/usuario/ml/inputToLearn/151.jpg, ejeMenorSoft_mm = 72.267100, cs=> grande, ce= mediana, ejeMayor_mm=67.600000, ejeMenor_mm=68.000000 
+/home/usuario/ml/inputToLearn/154.jpg, ejeMenorSoft_mm = 64.464800, cs=> mediana, ce= pequeña, ejeMayor_mm=65.500000, ejeMenor_mm=62.000000 
+/home/usuario/ml/inputToLearn/159.jpg, ejeMenorSoft_mm = 65.185000, cs=> mediana, ce= pequeña, ejeMayor_mm=62.700000, ejeMenor_mm=61.800000 
+/home/usuario/ml/inputToLearn/161.jpg, ejeMenorSoft_mm = 69.204600, cs=> grande, ce= mediana, ejeMayor_mm=69.000000, ejeMenor_mm=66.400000 
+/home/usuario/ml/inputToLearn/168.jpg, ejeMenorSoft_mm = 70.704400, cs=> grande, ce= mediana, ejeMayor_mm=68.400000, ejeMenor_mm=68.200000 
+/home/usuario/ml/inputToLearn/169.jpg, ejeMenorSoft_mm = 69.784100, cs=> grande, ce= mediana, ejeMayor_mm=70.000000, ejeMenor_mm=65.700000 
+/home/usuario/ml/inputToLearn/171.jpg, ejeMenorSoft_mm = 71.838600, cs=> grande, ce= mediana, ejeMayor_mm=71.500000, ejeMenor_mm=67.600000 
+/home/usuario/ml/inputToLearn/172.jpg, ejeMenorSoft_mm = 66.622700, cs=> mediana, ce= pequeña, ejeMayor_mm=65.000000, ejeMenor_mm=63.700000 
+/home/usuario/ml/inputToLearn/175.jpg, ejeMenorSoft_mm = 65.152500, cs=> mediana, ce= pequeña, ejeMayor_mm=66.100000, ejeMenor_mm=63.400000 
+/home/usuario/ml/inputToLearn/176.jpg, ejeMenorSoft_mm = 70.767600, cs=> grande, ce= pequeña, ejeMayor_mm=76.000000, ejeMenor_mm=61.300000 
+/home/usuario/ml/inputToLearn/180.jpg, ejeMenorSoft_mm = 68.809000, cs=> grande, ce= mediana, ejeMayor_mm=70.500000, ejeMenor_mm=64.800000 
+/home/usuario/ml/inputToLearn/181.jpg, ejeMenorSoft_mm = 72.596500, cs=> grande, ce= mediana, ejeMayor_mm=77.200000, ejeMenor_mm=67.400000 
+/home/usuario/ml/inputToLearn/184.jpg, ejeMenorSoft_mm = 68.928200, cs=> grande, ce= mediana, ejeMayor_mm=72.000000, ejeMenor_mm=65.200000 
+/home/usuario/ml/inputToLearn/185.jpg, ejeMenorSoft_mm = 70.149400, cs=> grande, ce= pequeña, ejeMayor_mm=67.400000, ejeMenor_mm=62.300000 
+/home/usuario/ml/inputToLearn/187.jpg, ejeMenorSoft_mm = 69.673600, cs=> grande, ce= mediana, ejeMayor_mm=67.700000, ejeMenor_mm=67.200000 
+/home/usuario/ml/inputToLearn/188.jpg, ejeMenorSoft_mm = 68.762400, cs=> grande, ce= mediana, ejeMayor_mm=67.800000, ejeMenor_mm=65.400000 
+/home/usuario/ml/inputToLearn/189.jpg, ejeMenorSoft_mm = 65.203700, cs=> mediana, ce= pequeña, ejeMayor_mm=65.500000, ejeMenor_mm=62.400000 
+/home/usuario/ml/inputToLearn/190.jpg, ejeMenorSoft_mm = 66.021200, cs=> mediana, ce= pequeña, ejeMayor_mm=68.000000, ejeMenor_mm=62.100000 
+/home/usuario/ml/inputToLearn/193.jpg, ejeMenorSoft_mm = 71.588100, cs=> grande, ce= mediana, ejeMayor_mm=72.900000, ejeMenor_mm=67.700000 
+/home/usuario/ml/inputToLearn/195.jpg, ejeMenorSoft_mm = 69.610700, cs=> grande, ce= mediana, ejeMayor_mm=67.700000, ejeMenor_mm=66.900000 
+/home/usuario/ml/inputToLearn/196.jpg, ejeMenorSoft_mm = 66.405800, cs=> mediana, ce= pequeña, ejeMayor_mm=67.000000, ejeMenor_mm=63.300000 
+/home/usuario/ml/inputToLearn/197.jpg, ejeMenorSoft_mm = 68.737100, cs=> grande, ce= mediana, ejeMayor_mm=70.000000, ejeMenor_mm=65.400000 
+/home/usuario/ml/inputToLearn/202.jpg, ejeMenorSoft_mm = 69.808400, cs=> grande, ce= mediana, ejeMayor_mm=73.100000, ejeMenor_mm=64.900000 
+/home/usuario/ml/inputToLearn/203.jpg, ejeMenorSoft_mm = 69.451500, cs=> grande, ce= mediana, ejeMayor_mm=73.500000, ejeMenor_mm=65.500000 
+/home/usuario/ml/inputToLearn/205.jpg, ejeMenorSoft_mm = 67.824800, cs=> mediana, ce= pequeña, ejeMayor_mm=65.500000, ejeMenor_mm=63.200000 
+/home/usuario/ml/inputToLearn/206.jpg, ejeMenorSoft_mm = 66.621800, cs=> mediana, ce= pequeña, ejeMayor_mm=66.500000, ejeMenor_mm=63.900000 
+Resultados 
+-----------
+ clas.software                  |
+ pequeno  | mediana  | grande   | clas.experto|
+        28|        35|         7| pequeno     |
+         1|        34|        33| mediana     |
+         4|         1|        64| grande      |
+Clase=1, precision=0.848485, sensibilidad=0.400000 especificidad=0.963504 exactitud=0.608696
+Clase=2, precision=0.485714, sensibilidad=0.500000 especificidad=0.741007 exactitud=0.608696
+Clase=3, precision=0.615385, sensibilidad=0.927536 especificidad=0.710145 exactitud=0.608696
+-----------------------------------
+RESULTADOS 
+Total de pruebas: 1
+-----------------------------------
+
+matrizAcumulados =
+
+    0.8485    0.4000    0.9635    0.6087
+    0.4857    0.5000    0.7410    0.6087
+    0.6154    0.9275    0.7101    0.6087
+
+ clas.software                  |
+ precisión  | sensibilidad | especificidad  | Exactitud  | CLASE |
+    0.8485 |    0.4000 |    0.9635 |    0.6087 | 1 |
+    0.4857 |    0.5000 |    0.7410 |    0.6087 | 2 |
+    0.6154 |    0.9275 |    0.7101 |    0.6087 | 3 |
+
+ ------------------------------- 
+
+ RESULTADO GENERAL DEL ALGORITMO 
+precision=     0.6499 | exactitud=     0.6087 | sensibilidad=     0.6092 | especificidad=     0.8049 
+MainClasSizeEM
+-----------------------------------
+PRUEBA # 1 
+-----------------------------------
+/home/usuario/OrangeResults/inputToLearn/002.jpg, ejeMenorSoft_mm = 68.811500, cs=> grande, ce= mediana, ejeMayor_mm=72.800000, ejeMenor_mm=67.800000 
+/home/usuario/OrangeResults/inputToLearn/003.jpg, ejeMenorSoft_mm = 69.462300, cs=> grande, ce= mediana, ejeMayor_mm=70.700000, ejeMenor_mm=65.900000 
+/home/usuario/OrangeResults/inputToLearn/004.jpg, ejeMenorSoft_mm = 70.544000, cs=> grande, ce= mediana, ejeMayor_mm=68.200000, ejeMenor_mm=67.300000 
+/home/usuario/OrangeResults/inputToLearn/007.jpg, ejeMenorSoft_mm = 69.102300, cs=> grande, ce= pequeña, ejeMayor_mm=69.000000, ejeMenor_mm=61.600000 
+/home/usuario/OrangeResults/inputToLearn/017.jpg, ejeMenorSoft_mm = 68.786400, cs=> grande, ce= mediana, ejeMayor_mm=71.600000, ejeMenor_mm=67.600000 
+/home/usuario/OrangeResults/inputToLearn/028.jpg, ejeMenorSoft_mm = 66.027500, cs=> mediana, ce= pequeña, ejeMayor_mm=66.100000, ejeMenor_mm=63.700000 
+/home/usuario/OrangeResults/inputToLearn/032.jpg, ejeMenorSoft_mm = 64.859900, cs=> mediana, ce= pequeña, ejeMayor_mm=68.200000, ejeMenor_mm=62.200000 
+/home/usuario/OrangeResults/inputToLearn/033.jpg, ejeMenorSoft_mm = 64.343400, cs=> mediana, ce= pequeña, ejeMayor_mm=67.000000, ejeMenor_mm=62.300000 
+/home/usuario/OrangeResults/inputToLearn/036.jpg, ejeMenorSoft_mm = 70.019800, cs=> grande, ce= mediana, ejeMayor_mm=70.100000, ejeMenor_mm=65.800000 
+/home/usuario/OrangeResults/inputToLearn/038.jpg, ejeMenorSoft_mm = 70.552400, cs=> grande, ce= mediana, ejeMayor_mm=69.100000, ejeMenor_mm=68.500000 
+/home/usuario/OrangeResults/inputToLearn/040.jpg, ejeMenorSoft_mm = 70.290400, cs=> grande, ce= mediana, ejeMayor_mm=70.700000, ejeMenor_mm=68.500000 
+/home/usuario/OrangeResults/inputToLearn/050.jpg, ejeMenorSoft_mm = 64.069400, cs=> mediana, ce= pequeña, ejeMayor_mm=64.100000, ejeMenor_mm=62.000000 
+/home/usuario/OrangeResults/inputToLearn/061.jpg, ejeMenorSoft_mm = 65.224800, cs=> mediana, ce= pequeña, ejeMayor_mm=68.100000, ejeMenor_mm=63.600000 
+/home/usuario/OrangeResults/inputToLearn/066.jpg, ejeMenorSoft_mm = 69.150700, cs=> grande, ce= mediana, ejeMayor_mm=70.900000, ejeMenor_mm=67.700000 
+/home/usuario/OrangeResults/inputToLearn/080.jpg, ejeMenorSoft_mm = 64.615000, cs=> mediana, ce= pequeña, ejeMayor_mm=70.500000, ejeMenor_mm=62.900000 
+/home/usuario/OrangeResults/inputToLearn/087.jpg, ejeMenorSoft_mm = 62.568400, cs=> pequeña, ce= grande, ejeMayor_mm=74.200000, ejeMenor_mm=72.700000 
+/home/usuario/OrangeResults/inputToLearn/088.jpg, ejeMenorSoft_mm = 61.470100, cs=> pequeña, ce= grande, ejeMayor_mm=71.600000, ejeMenor_mm=71.500000 
+/home/usuario/OrangeResults/inputToLearn/089.jpg, ejeMenorSoft_mm = 70.034600, cs=> grande, ce= mediana, ejeMayor_mm=71.400000, ejeMenor_mm=67.200000 
+/home/usuario/OrangeResults/inputToLearn/090.jpg, ejeMenorSoft_mm = 64.074900, cs=> mediana, ce= pequeña, ejeMayor_mm=67.200000, ejeMenor_mm=62.800000 
+/home/usuario/OrangeResults/inputToLearn/091.jpg, ejeMenorSoft_mm = 68.964900, cs=> grande, ce= pequeña, ejeMayor_mm=64.700000, ejeMenor_mm=60.200000 
+/home/usuario/OrangeResults/inputToLearn/093.jpg, ejeMenorSoft_mm = 67.468700, cs=> mediana, ce= pequeña, ejeMayor_mm=66.400000, ejeMenor_mm=63.700000 
+/home/usuario/OrangeResults/inputToLearn/094.jpg, ejeMenorSoft_mm = 63.552700, cs=> pequeña, ce= grande, ejeMayor_mm=73.800000, ejeMenor_mm=68.700000 
+/home/usuario/OrangeResults/inputToLearn/095.jpg, ejeMenorSoft_mm = 66.354000, cs=> mediana, ce= pequeña, ejeMayor_mm=67.800000, ejeMenor_mm=62.200000 
+/home/usuario/OrangeResults/inputToLearn/097.jpg, ejeMenorSoft_mm = 71.427600, cs=> grande, ce= pequeña, ejeMayor_mm=63.800000, ejeMenor_mm=63.300000 
+/home/usuario/OrangeResults/inputToLearn/098.jpg, ejeMenorSoft_mm = 62.885800, cs=> pequeña, ce= mediana, ejeMayor_mm=72.400000, ejeMenor_mm=66.600000 
+/home/usuario/OrangeResults/inputToLearn/099.jpg, ejeMenorSoft_mm = 73.068300, cs=> grande, ce= mediana, ejeMayor_mm=71.900000, ejeMenor_mm=66.800000 
+/home/usuario/OrangeResults/inputToLearn/100.jpg, ejeMenorSoft_mm = 61.647800, cs=> pequeña, ce= grande, ejeMayor_mm=67.700000, ejeMenor_mm=69.100000 
+/home/usuario/OrangeResults/inputToLearn/101.jpg, ejeMenorSoft_mm = 74.131600, cs=> grande, ce= pequeña, ejeMayor_mm=66.100000, ejeMenor_mm=63.400000 
+/home/usuario/OrangeResults/inputToLearn/103.jpg, ejeMenorSoft_mm = 70.330400, cs=> grande, ce= pequeña, ejeMayor_mm=68.300000, ejeMenor_mm=61.100000 
+/home/usuario/OrangeResults/inputToLearn/104.jpg, ejeMenorSoft_mm = 64.219300, cs=> mediana, ce= pequeña, ejeMayor_mm=61.800000, ejeMenor_mm=63.700000 
+/home/usuario/OrangeResults/inputToLearn/105.jpg, ejeMenorSoft_mm = 64.859600, cs=> mediana, ce= pequeña, ejeMayor_mm=66.400000, ejeMenor_mm=63.900000 
+/home/usuario/OrangeResults/inputToLearn/110.jpg, ejeMenorSoft_mm = 69.169200, cs=> grande, ce= mediana, ejeMayor_mm=73.000000, ejeMenor_mm=66.800000 
+/home/usuario/OrangeResults/inputToLearn/111.jpg, ejeMenorSoft_mm = 69.777600, cs=> grande, ce= mediana, ejeMayor_mm=71.300000, ejeMenor_mm=67.500000 
+/home/usuario/OrangeResults/inputToLearn/112.jpg, ejeMenorSoft_mm = 70.506300, cs=> grande, ce= mediana, ejeMayor_mm=74.500000, ejeMenor_mm=68.300000 
+/home/usuario/OrangeResults/inputToLearn/115.jpg, ejeMenorSoft_mm = 66.589300, cs=> mediana, ce= pequeña, ejeMayor_mm=71.900000, ejeMenor_mm=63.400000 
+/home/usuario/OrangeResults/inputToLearn/117.jpg, ejeMenorSoft_mm = 64.646400, cs=> mediana, ce= pequeña, ejeMayor_mm=60.600000, ejeMenor_mm=62.200000 
+/home/usuario/OrangeResults/inputToLearn/118.jpg, ejeMenorSoft_mm = 67.611900, cs=> mediana, ce= pequeña, ejeMayor_mm=70.000000, ejeMenor_mm=61.300000 
+/home/usuario/OrangeResults/inputToLearn/119.jpg, ejeMenorSoft_mm = 67.305300, cs=> mediana, ce= pequeña, ejeMayor_mm=69.000000, ejeMenor_mm=63.900000 
+/home/usuario/OrangeResults/inputToLearn/120.jpg, ejeMenorSoft_mm = 70.077700, cs=> grande, ce= mediana, ejeMayor_mm=73.300000, ejeMenor_mm=66.200000 
+/home/usuario/OrangeResults/inputToLearn/121.jpg, ejeMenorSoft_mm = 65.252600, cs=> mediana, ce= pequeña, ejeMayor_mm=63.800000, ejeMenor_mm=63.900000 
+/home/usuario/OrangeResults/inputToLearn/127.jpg, ejeMenorSoft_mm = 66.736700, cs=> mediana, ce= grande, ejeMayor_mm=60.200000, ejeMenor_mm=68.800000 
+/home/usuario/OrangeResults/inputToLearn/128.jpg, ejeMenorSoft_mm = 65.664200, cs=> mediana, ce= pequeña, ejeMayor_mm=69.300000, ejeMenor_mm=62.200000 
+/home/usuario/OrangeResults/inputToLearn/129.jpg, ejeMenorSoft_mm = 64.736800, cs=> mediana, ce= pequeña, ejeMayor_mm=64.400000, ejeMenor_mm=61.800000 
+/home/usuario/OrangeResults/inputToLearn/130.jpg, ejeMenorSoft_mm = 66.216500, cs=> mediana, ce= pequeña, ejeMayor_mm=65.800000, ejeMenor_mm=63.400000 
+/home/usuario/OrangeResults/inputToLearn/131.jpg, ejeMenorSoft_mm = 65.650000, cs=> mediana, ce= pequeña, ejeMayor_mm=71.200000, ejeMenor_mm=63.300000 
+/home/usuario/OrangeResults/inputToLearn/133.jpg, ejeMenorSoft_mm = 64.766200, cs=> mediana, ce= pequeña, ejeMayor_mm=68.600000, ejeMenor_mm=63.100000 
+/home/usuario/OrangeResults/inputToLearn/134.jpg, ejeMenorSoft_mm = 65.659700, cs=> mediana, ce= pequeña, ejeMayor_mm=63.300000, ejeMenor_mm=62.700000 
+/home/usuario/OrangeResults/inputToLearn/136.jpg, ejeMenorSoft_mm = 64.689300, cs=> mediana, ce= pequeña, ejeMayor_mm=64.700000, ejeMenor_mm=62.400000 
+/home/usuario/OrangeResults/inputToLearn/139.jpg, ejeMenorSoft_mm = 69.927100, cs=> grande, ce= mediana, ejeMayor_mm=70.200000, ejeMenor_mm=66.900000 
+/home/usuario/OrangeResults/inputToLearn/143.jpg, ejeMenorSoft_mm = 73.822300, cs=> grande, ce= mediana, ejeMayor_mm=73.400000, ejeMenor_mm=67.100000 
+/home/usuario/OrangeResults/inputToLearn/144.jpg, ejeMenorSoft_mm = 65.138600, cs=> mediana, ce= pequeña, ejeMayor_mm=65.900000, ejeMenor_mm=60.100000 
+/home/usuario/OrangeResults/inputToLearn/145.jpg, ejeMenorSoft_mm = 66.308600, cs=> mediana, ce= pequeña, ejeMayor_mm=64.500000, ejeMenor_mm=63.000000 
+/home/usuario/OrangeResults/inputToLearn/147.jpg, ejeMenorSoft_mm = 64.601700, cs=> mediana, ce= pequeña, ejeMayor_mm=62.700000, ejeMenor_mm=62.000000 
+/home/usuario/OrangeResults/inputToLearn/149.jpg, ejeMenorSoft_mm = 71.429100, cs=> grande, ce= mediana, ejeMayor_mm=68.800000, ejeMenor_mm=68.300000 
+/home/usuario/OrangeResults/inputToLearn/150.jpg, ejeMenorSoft_mm = 70.739000, cs=> grande, ce= mediana, ejeMayor_mm=68.000000, ejeMenor_mm=67.800000 
+/home/usuario/OrangeResults/inputToLearn/151.jpg, ejeMenorSoft_mm = 72.267100, cs=> grande, ce= mediana, ejeMayor_mm=67.600000, ejeMenor_mm=68.000000 
+/home/usuario/OrangeResults/inputToLearn/154.jpg, ejeMenorSoft_mm = 64.464800, cs=> mediana, ce= pequeña, ejeMayor_mm=65.500000, ejeMenor_mm=62.000000 
+/home/usuario/OrangeResults/inputToLearn/159.jpg, ejeMenorSoft_mm = 65.185000, cs=> mediana, ce= pequeña, ejeMayor_mm=62.700000, ejeMenor_mm=61.800000 
+/home/usuario/OrangeResults/inputToLearn/161.jpg, ejeMenorSoft_mm = 69.204600, cs=> grande, ce= mediana, ejeMayor_mm=69.000000, ejeMenor_mm=66.400000 
+/home/usuario/OrangeResults/inputToLearn/168.jpg, ejeMenorSoft_mm = 70.704400, cs=> grande, ce= mediana, ejeMayor_mm=68.400000, ejeMenor_mm=68.200000 
+/home/usuario/OrangeResults/inputToLearn/169.jpg, ejeMenorSoft_mm = 69.784100, cs=> grande, ce= mediana, ejeMayor_mm=70.000000, ejeMenor_mm=65.700000 
+/home/usuario/OrangeResults/inputToLearn/171.jpg, ejeMenorSoft_mm = 71.838600, cs=> grande, ce= mediana, ejeMayor_mm=71.500000, ejeMenor_mm=67.600000 
+/home/usuario/OrangeResults/inputToLearn/172.jpg, ejeMenorSoft_mm = 66.622700, cs=> mediana, ce= pequeña, ejeMayor_mm=65.000000, ejeMenor_mm=63.700000 
+/home/usuario/OrangeResults/inputToLearn/175.jpg, ejeMenorSoft_mm = 65.152500, cs=> mediana, ce= pequeña, ejeMayor_mm=66.100000, ejeMenor_mm=63.400000 
+/home/usuario/OrangeResults/inputToLearn/176.jpg, ejeMenorSoft_mm = 70.767600, cs=> grande, ce= pequeña, ejeMayor_mm=76.000000, ejeMenor_mm=61.300000 
+/home/usuario/OrangeResults/inputToLearn/180.jpg, ejeMenorSoft_mm = 68.809000, cs=> grande, ce= mediana, ejeMayor_mm=70.500000, ejeMenor_mm=64.800000 
+/home/usuario/OrangeResults/inputToLearn/181.jpg, ejeMenorSoft_mm = 72.596500, cs=> grande, ce= mediana, ejeMayor_mm=77.200000, ejeMenor_mm=67.400000 
+/home/usuario/OrangeResults/inputToLearn/184.jpg, ejeMenorSoft_mm = 68.928200, cs=> grande, ce= mediana, ejeMayor_mm=72.000000, ejeMenor_mm=65.200000 
+/home/usuario/OrangeResults/inputToLearn/185.jpg, ejeMenorSoft_mm = 70.149400, cs=> grande, ce= pequeña, ejeMayor_mm=67.400000, ejeMenor_mm=62.300000 
+/home/usuario/OrangeResults/inputToLearn/187.jpg, ejeMenorSoft_mm = 69.673600, cs=> grande, ce= mediana, ejeMayor_mm=67.700000, ejeMenor_mm=67.200000 
+/home/usuario/OrangeResults/inputToLearn/188.jpg, ejeMenorSoft_mm = 68.762400, cs=> grande, ce= mediana, ejeMayor_mm=67.800000, ejeMenor_mm=65.400000 
+/home/usuario/OrangeResults/inputToLearn/189.jpg, ejeMenorSoft_mm = 65.203700, cs=> mediana, ce= pequeña, ejeMayor_mm=65.500000, ejeMenor_mm=62.400000 
+/home/usuario/OrangeResults/inputToLearn/190.jpg, ejeMenorSoft_mm = 66.021200, cs=> mediana, ce= pequeña, ejeMayor_mm=68.000000, ejeMenor_mm=62.100000 
+/home/usuario/OrangeResults/inputToLearn/193.jpg, ejeMenorSoft_mm = 71.588100, cs=> grande, ce= mediana, ejeMayor_mm=72.900000, ejeMenor_mm=67.700000 
+/home/usuario/OrangeResults/inputToLearn/195.jpg, ejeMenorSoft_mm = 69.610700, cs=> grande, ce= mediana, ejeMayor_mm=67.700000, ejeMenor_mm=66.900000 
+/home/usuario/OrangeResults/inputToLearn/196.jpg, ejeMenorSoft_mm = 66.405800, cs=> mediana, ce= pequeña, ejeMayor_mm=67.000000, ejeMenor_mm=63.300000 
+/home/usuario/OrangeResults/inputToLearn/197.jpg, ejeMenorSoft_mm = 68.737100, cs=> grande, ce= mediana, ejeMayor_mm=70.000000, ejeMenor_mm=65.400000 
+/home/usuario/OrangeResults/inputToLearn/202.jpg, ejeMenorSoft_mm = 69.808400, cs=> grande, ce= mediana, ejeMayor_mm=73.100000, ejeMenor_mm=64.900000 
+/home/usuario/OrangeResults/inputToLearn/203.jpg, ejeMenorSoft_mm = 69.451500, cs=> grande, ce= mediana, ejeMayor_mm=73.500000, ejeMenor_mm=65.500000 
+/home/usuario/OrangeResults/inputToLearn/205.jpg, ejeMenorSoft_mm = 67.824800, cs=> mediana, ce= pequeña, ejeMayor_mm=65.500000, ejeMenor_mm=63.200000 
+Resultados 
+-----------
+ clas.software                  |
+ pequeno  | mediana  | grande   | clas.experto|
+        28|        34|         7| pequeno     |
+         1|        35|        33| mediana     |
+         4|         1|        64| grande      |
+Clase=1, precision=0.848485, sensibilidad=0.405797 especificidad=0.963768 exactitud=0.613527
+Clase=2, precision=0.500000, sensibilidad=0.507246 especificidad=0.746377 exactitud=0.613527
+Clase=3, precision=0.615385, sensibilidad=0.927536 especificidad=0.710145 exactitud=0.613527
+-----------------------------------
+RESULTADOS 
+Total de pruebas: 1
+-----------------------------------
+
+matrizAcumulados =
+
+    0.8485    0.4058    0.9638    0.6135
+    0.5000    0.5072    0.7464    0.6135
+    0.6154    0.9275    0.7101    0.6135
+
+ clas.software                  |
+ precisión  | sensibilidad | especificidad  | Exactitud  | CLASE |
+    0.8485 |    0.4058 |    0.9638 |    0.6135 | 1 |
+    0.5000 |    0.5072 |    0.7464 |    0.6135 | 2 |
+    0.6154 |    0.9275 |    0.7101 |    0.6135 | 3 |
+
+ ------------------------------- 
+
+ RESULTADO GENERAL DEL ALGORITMO 
+precision=     0.6546 | exactitud=     0.6135 | sensibilidad=     0.6135 | especificidad=     0.8068 
+MainCalibration4R
+
+ 1) Copie el archivo de calibración obtenido en el directorio /home/usuario/OrangeResults/inputToCalibrate/ 
+
+ 2) Renombre el archivo a  calibracion_001.jpg 
+Ingrese 0=falta calibrar, 1=ya esta calibrado >0
+
+--- PROCESO DE CALIBRACIÓN EN MARCHA --- 
+BR -> Segmentación de fondo --> 
+BR -> Removiendo fondo, separacion ROI--> 
+BR -> Detección de objetos en cuadros. Recortando ROI y siluetas ROI --> 
+Segmentacion de mascara para obtener defectos aislados de ROI --> 
+Separación de defectos en color --> 
+------------------------------------------------- 
+Ingrese los valores para la conversion de medidas 
+------------------------------------------------- 
+La calibración se realiza en base a una esfera conocida 
+Calculando características geométricas desde una imagen 
+Ingrese DIÁMETRO de la esfera de calibración en milímetros: 61
+------------------------------------------------- 
+Resultados 
+------------------------------------------------- 
+Area de Calibración= 2922.466566 
+Area en pixeles R1 = 22231.000000 
+1 pixel^2 R1= 0.131459 mm^2
+1 pixel lineal R1= 0.362573 mm
+
+ <!-- ---------- RECORTAR HASTA AQUI ------ --> 
+<listitem>
+ <label>diametroEsfera</label>
+ <value>61.000000</value>
+ </listitem>
+<listitem>
+ <label>areaCalibracion</label>
+ <value>2922.466566</value>
+ </listitem>
+<listitem>
+ <label>areaPixelesR1</label>
+ <value>22231.000000</value>
+ </listitem>
+<listitem>
+ <label>areaPixelesR2</label>
+ <value>12310.000000</value>
+ </listitem>
+<listitem>
+ <label>areaPixelesR3</label>
+ <value>11793.000000</value>
+ </listitem>
+<listitem>
+ <label>areaPixelesR4</label>
+ <value>11602.000000</value>
+ </listitem>
+<listitem>
+ <label>pixelCuadradoR1</label>
+ <value>0.131459</value>
+ </listitem>
+<listitem>
+ <label>pixelCuadradoR2</label>
+ <value>0.237406</value>
+ </listitem>
+<listitem>
+ <label>pixelCuadradoR3</label>
+ <value>0.247814</value>
+ </listitem>
+<listitem>
+ <label>pixelCuadradoR4</label>
+ <value>0.251893</value>
+ </listitem>
+<listitem>
+ <label>pixelLinealR1</label>
+ <value>0.362573</value>
+ </listitem> 
+<listitem>
+ <label>pixelLinealR2</label>
+ <value>0.487243</value>
+ </listitem> 
+<listitem>
+ <label>pixelLinealR3</label>
+ <value>0.497809</value>
+ </listitem> 
+<listitem>
+ <label>pixelLinealR4</label>
+ <value>0.501890</value>
+ </listitem> 
+
+ <!-- ---------- RECORTAR HASTA AQUI ------ --> 
+
+--- ATENCIÓN! --- 
+1) Repita el proceso de tantas veces sea posible, ajuste los 
+ valores manualmente para hacer coincidir 
+ los cuadros en el archivo Para calibrar sobre escriba MANUALMENTE con los valores obtenidos como resultados en el archivo /home/usuario/OrangeResults/bySize/PSMet2/Calibration4R/conf/20170916configuracion.xml 
+2) Para calibrar la correspondencia entre pixeles y milímetros 
+ sobreescriba MANUALMENTE con los valores 
+ obtenidos como resultados en el archivo /home/usuario/OrangeResults/bySize/PSMet2/Calibration4R/conf/20170916calibracion.xml 
+MainClasSizeD

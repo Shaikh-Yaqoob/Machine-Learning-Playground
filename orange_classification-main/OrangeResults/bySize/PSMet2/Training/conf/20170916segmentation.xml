@@ -1,0 +1,31 @@
+<productinfo
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://www.mathworks.com/namespace/info/v1/info.xsd">
+<!--  -->
+<listitem>
+ <label>canalLMin</label>
+ <value>0.0</value>
+</listitem>
+<listitem>
+ <label>canalLMax</label>
+ <value>96.653</value>
+</listitem>
+<listitem>
+ <label>canalAMin</label>
+ <value>-23.548</value>
+</listitem>
+<listitem>
+ <label>canalAMax</label>
+ <value>16.303</value>
+</listitem>
+<listitem>
+ <label>canalBMin</label>
+ <value>-28.235</value>
+</listitem>
+<listitem>
+ <label>canalBMax</label>
+ <value>-1.169</value>
+</listitem>
+
+</productinfo>
+
